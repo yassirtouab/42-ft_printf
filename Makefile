@@ -6,7 +6,7 @@
 #    By: ytouab <ytouab@student.42abudhabi.ae>      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/10/26 17:50:35 by ytouab            #+#    #+#              #
-#    Updated: 2021/10/30 03:11:21 by ytouab           ###   ########.fr        #
+#    Updated: 2022/07/07 14:41:14 by ytouab           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -28,7 +28,6 @@ SRCS =	ft_printf.c\
 		ft_putnbr_fd.c\
 		ft_putunbr_fd.c\
 		ft_putstr_fd.c\
-		ft_strchr.c\
 		ft_strlen.c\
 		ft_putptr.c\
 
